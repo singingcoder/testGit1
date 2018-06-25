@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
 
+
 # Compiled Object files
 *.slo
 *.lo
@@ -24,8 +25,10 @@
 *.lai
 *.la
 
-
 # Executables
 *.exe
 *.out
 *.app
+
+# projWin32
+./proj.win32
